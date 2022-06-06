@@ -1,0 +1,11 @@
+ Bug ID: 1
+ Bug Name: Crash
+ Summary: application crashes when the search starts
+ Submit Date: 5/28/2022
+ Reporter: Natali Silina
+ Platform: iPhone 7 
+ Operating System: iOS 15.5
+ Description: application crashes when the search starts
+ Expected Result: when the search is activated, a search bar appears
+ Actual Result: application crashes when the search starts
+
